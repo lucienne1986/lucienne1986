@@ -24,8 +24,6 @@ Supportive and enthusiastic team player that strives to learn and apply the know
   *Issued by Microsoft, October 2014*  
   Credential ID: 6220091
 
--**Python Certification (in progress)**
-
 ## 💼 Work Experience
 
 ### Senior Lecturer
