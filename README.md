@@ -12,9 +12,12 @@ Supportive and enthusiastic team player that strives to learn and apply the know
 ---
 
 ## 🛠️ Technical Skills
-- **Programming Languages**: Python, JavaScript, SQL, C#
-- **Frameworks & Libraries**: 
-- **Tools & Technologies**: Git, GitHub, 
+- **Programming Languages**: Python, C#, JavaScript, HTML, CSS
+- **Frameworks & Libraries**: FastAPI, Flask, TensorFlow, PyTorch, scikit-learn
+- **Tools & DevOps**: Docker, Kubernetes, GitHub Actions, CI/CD.
+- **Embedded Systems**: Raspberry PI, Hardware interfacing, GPIO
+- **Database Technologies**: SQL
+- **Methodologies**: SCRUM
 
 ## 🏅 Licenses & Certifications
 - **Microsoft Certified Solutions Developer (MCSD)**  
@@ -66,7 +69,7 @@ Malta
 ## 👩‍💻 Mentorship & Student Engagement
 - Mentored students for over 10 years in various software development tools ranging from post-secondary to degree students. 
 - Focused on helping students master core software principles and become industry-ready.
-- Guided students through disserations
+- Mentored students during disserations
 
 ## 🎓 Education
 - **University of Hertfordshire, UK**  
@@ -82,7 +85,7 @@ Malta
   *October 2004 – June 2007*
 
 ## 🎯 Goals
-- Continue expanding my contributions to open-source projects and collaborating with other developers.
+- Continue expanding my knowledge and skills, particularly on AI and collaborating with other developers.
 
 ## 📫 Connect with Me
 - **Email**: [lucienne1986@gmail.com](mailto:lucienne1986@gmail.com)
