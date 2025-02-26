@@ -62,6 +62,7 @@ Malta
 - Researched biometrics technologies worldwide and reported to management on new developments.
 
 **Skills**: Testing
+
 ---
 
 ## 👩‍💻 Mentorship & Student Engagement
